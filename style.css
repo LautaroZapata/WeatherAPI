@@ -55,6 +55,8 @@ h5 {
 
 h1 {
     font-size: 80px;
+    margin-bottom: 0px;
+    margin-top: 10px;
 }
 
 p {
@@ -62,4 +64,18 @@ p {
     font-weight: 500;
     color: #fff;
     margin: auto;
+}
+
+.title {
+    text-align: center;
+    font-size: 30px;
+}
+
+.oratual{
+    font-size: 10px;
+    text-align: center;
+}
+
+footer {
+    margin-top: 30px;
 }
